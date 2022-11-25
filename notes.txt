@@ -1,0 +1,6 @@
+products: categories, prices, return policy
+suppliers: cities
+warehouses: own, rented
+customers: location, points, preferences based on search and purchase history	
+payment: different techniques, different packages
+offers: events, points, differ per country and payment method

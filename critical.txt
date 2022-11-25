@@ -1,0 +1,22 @@
+1. first table is inaccurate
+2. use case vs domain model table is inaccurate
+3. the domain model does not have multiplicities
+4. the domain model does not use any complex associations
+5. use case diagram is probably not that great
+6. checkout activity diagram is great
+7. search activity diagram is great
+8. where is the buy activity diagram?
+9. checkout ssd is great
+10. where is the buy product ssd?
+11. search product ssd is probably inaccurate
+12. state machine diagram is inaccurate
+13. refund association in domain model should probably be between customer and product, not customer and offer
+14. checkout class in domain model is sus
+15. country class in domain model is sus
+16. where is product price in the product class in domain model?
+17. in domain model, [Offer](discountPercentage, datetime, products) 
+18. search class in domain model probably should not be a thing
+19. points class in domain model probably should not be a thing
+20. refund class in domain model probably should not be a thing
+21. we can replace the "search product" activity diagram and ssd with "add to cart" to solve (concern no. 11) + add to cart already exists in slides CH5, slide 23
+22. where are customer preferences in domain model
